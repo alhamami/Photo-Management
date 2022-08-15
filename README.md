@@ -6,7 +6,9 @@ the content of the photos. A tag is a keyword associated with a photo. For examp
 can associate the tag ”vacation” to any photo taken during a vacation. In Table 1, you
 may find some examples of photos and the tags that are used to describe them.
 
-<center>![alt text](https://i.imgur.com/CX3nvB5.png)</center>
+<center>
+  ![alt text](https://i.imgur.com/CX3nvB5.png)
+</center>
 
 - The photo manager organizes the photos into albums created by the user. An album
 is identified by a unique name and regroups photos that satisfy certain conditions. For
