@@ -18,6 +18,8 @@ Tag1 AND Tag2 AND Tag3
 - Photos that contain all specified tags will appear in the album. An empty tag list matches
 all photos.
 
+<hr>
+
 ### Example 1. Using the photos of Table 1, the album with the condition bear, will contain two photos (that of the panda and the grizzly bear). The album with the condition
 animal AND grass will contain four photos (hedgehog, grizzly bear, fox and panda). 
 The albbum with no tags will contain all eight photos.
@@ -29,10 +31,15 @@ will store all the tags, and each tag will point to all the photos that contain 
 The following is an example showing a partial inverted index for the photos shown
 above:
 > animal → hedgehog.jpg, bear.jpg, fox.jpg, panda.jpg, wolf.jpg, racoon.jpg
+<br>
 > apple → hedgehog.jpg
+<br>
 > bear → bear.jpg, panda.jpg
+<br>
 > black → butterfly2.jpg
+<br>
 > butterfly → butterfly1.jpg, butterfly2.jpg
+<br>
 ...
 
 - I represented the photos-tags association using an inverted index stored in the class
