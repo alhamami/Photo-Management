@@ -7,7 +7,7 @@ can associate the tag ”vacation” to any photo taken during a vacation. In Ta
 may find some examples of photos and the tags that are used to describe them.
 
 <p align="center">
-    ![alt text](https://i.imgur.com/CX3nvB5.png)
+     <img src="https://i.imgur.com/CX3nvB5.png"/>
 </p>
  
 - The photo manager organizes the photos into albums created by the user. An album
