@@ -20,7 +20,7 @@ all photos.
 
 <hr>
 
-### Example 1. Using the photos of Table 1, the album with the condition bear, will contain two photos (that of the panda and the grizzly bear). The album with the condition animal AND grass will contain four photos (hedgehog, grizzly bear, fox and panda). The albbum with no tags will contain all eight photos.
+#### Example 1. Using the photos of Table 1, the album with the condition bear, will contain two photos (that of the panda and the grizzly bear). The album with the condition animal AND grass will contain four photos (hedgehog, grizzly bear, fox and panda). The albbum with no tags will contain all eight photos.
 
 ## Inverted index
 - In order to accelerate the search for photos, it is possible to store the tags in an inverted
