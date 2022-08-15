@@ -30,16 +30,12 @@ index. The idea is that instead of having the photos point to the tags, the inve
 will store all the tags, and each tag will point to all the photos that contain it.
 The following is an example showing a partial inverted index for the photos shown
 above:
-> animal → hedgehog.jpg, bear.jpg, fox.jpg, panda.jpg, wolf.jpg, racoon.jpg
-<br>
-> apple → hedgehog.jpg
-<br>
-> bear → bear.jpg, panda.jpg
-<br>
-> black → butterfly2.jpg
-<br>
-> butterfly → butterfly1.jpg, butterfly2.jpg
-<br>
+> animal → hedgehog.jpg, bear.jpg, fox.jpg, panda.jpg, wolf.jpg, racoon.jpg <br>
+> apple → hedgehog.jpg <br>
+> bear → bear.jpg, panda.jpg <br>
+> black → butterfly2.jpg <br>
+> butterfly → butterfly1.jpg, butterfly2.jpg <br>
+
 ...
 
 - I represented the photos-tags association using an inverted index stored in the class
